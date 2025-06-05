@@ -1,5 +1,5 @@
 streamlit
 request
 keras
-pillow
+Pillow
 numpy
