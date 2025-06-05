@@ -1,6 +1,5 @@
 streamlit
 requests
-keras
 tensorflow
 Pillow
 numpy
